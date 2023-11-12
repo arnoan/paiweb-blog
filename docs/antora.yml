@@ -1,0 +1,6 @@
+name: blog
+title: PAIWeb Blog
+version: 1.0.0
+start_page: blog:landing_page.adoc
+nav:
+- modules/blog/nav.adoc

@@ -1,0 +1,12 @@
+site:
+  title: PAIWeb Blog (Python, AI, WebDev)
+  start_page: blog:blog:landing_page.adoc
+content:
+  sources: 
+  - url: ./
+    branches: HEAD
+    start_path: docs
+ui: 
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
