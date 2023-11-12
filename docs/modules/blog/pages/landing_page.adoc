@@ -12,7 +12,7 @@ My name is Arno, I am Data Engineer, Python Aficionado and lover of long walks i
 
 The intention of this blog is for me to have a medium to share my thoughts and ideas -- primarily with my future self -- but also with the world, if people happen to find my thoughts interesting. :-)
 
-I am always looking for like-minded people to mutually learn, inspire, grow, share and build with. To that end I am currently in the process of building a Python Meetup Community in Arnhem. Early signs of interest are promising, if the Meetup platform numbers are to be trusted, and I am very excited for the synergies in learning and growth this may enable for everyone involved. (For Details, see https://www.meetup.paiweb.dev[PAIWeb Meetup Group].)
+I am always looking for like-minded people to mutually learn, inspire, grow, share and build with. To that end I am currently in the process of building a Python Meetup Community in Arnhem. Early signs of interest are promising, if the Meetup platform numbers are to be trusted, and I am very excited for the synergies in learning and growth this may enable for everyone involved. (For Details, see https://meetup.paiweb.dev[PAIWeb Meetup Group].)
 
 One other thing I wish to share is that I am absolutely, utterly, incredibly _AMAZED_ by the enormous and fast-paced technological breakthroughs and progress that has been made in the space of generative AI over the past year. At this moment I feel as excited again about being a programmer, and the large creative potential that lies before us, as I haven't been in a long time. So LLMs are likely going to be a major and recurring theme on this blog.
 
