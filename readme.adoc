@@ -12,5 +12,7 @@ This repo contains both the blog content, and also the required configuration fo
 ** https://github.com/arnoan/paiweb-blog/actions
 - Azure Static Web App Resource:
 ** https://portal.azure.com/#@angererarnogmail.onmicrosoft.com/resource/subscriptions/72d76fcf-2a1a-4e9b-9a4f-3986638718b1/resourcegroups/paiweb-blog/providers/Microsoft.Web/staticSites/paiweb-blog/staticsite[Azure Static Web App Resource]
+- Azure Static Web App URL:
+** https://proud-desert-072854503.4.azurestaticapps.net
 - Custom Domain:
 ** https://blog.paiweb.dev
