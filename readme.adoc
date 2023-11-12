@@ -1,0 +1,16 @@
+= Readme
+
+This repository contains the Asciidoc source files for the public-facing "PAIWeb Blog" (`blog.paiweb.dev`).
+
+This repo contains both the blog content, and also the required configuration for the Antora build process.
+
+== Relevant Links
+
+- Github:
+** https://github.com/arnoan/paiweb-blog
+- GH Actions:
+** https://github.com/arnoan/paiweb-blog/actions
+- Azure Static Web App Resource:
+** https://portal.azure.com/#@angererarnogmail.onmicrosoft.com/resource/subscriptions/72d76fcf-2a1a-4e9b-9a4f-3986638718b1/resourcegroups/paiweb-blog/providers/Microsoft.Web/staticSites/paiweb-blog/staticsite[Azure Static Web App Resource]
+- Custom Domain:
+** https://blog.paiweb.dev
